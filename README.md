@@ -1,3 +1,4 @@
+Estudante de Ciência da Computação em formação, focado em programação, lógica e desenvolvimento de software.
 ## Hi there 👋
 
 <!--
